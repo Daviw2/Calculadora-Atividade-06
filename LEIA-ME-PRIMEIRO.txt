@@ -1,0 +1,29 @@
+CALCULADORA - ATIVIDADE 06
+
+PASSO RÁPIDO:
+
+1) Extraia o ZIP.
+2) Abra o Android Studio.
+3) Clique em Open.
+4) Abra a pasta Calculadora_Atividade06.
+5) Espere o Gradle Sync.
+6) Se pedir para instalar Android SDK 35, confirme.
+7) Escolha um emulador/celular.
+8) Clique no botão verde Run.
+
+A calculadora já contém:
++  soma
+-  subtração
+x  multiplicação
+/  divisão
+%  porcentagem
++/- alteração de sinal
+.  decimal
+AC limpar
+=  resultado
+histórico do cálculo na área superior
+tratamento de divisão por zero
+
+IMPORTANTE:
+Não abra somente a pasta "app".
+Abra a pasta RAIZ "Calculadora_Atividade06".
